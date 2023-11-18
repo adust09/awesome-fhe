@@ -6,14 +6,14 @@
   -  [Courses](#Courses)
   -  [Use cases](#Use-cases)
   -  [Applications](#Applications)
-## General introduction
-## Courses
+## Mathmatical introduction
+- [] TODO
 ## Use cases
+- [] TODO
 ## Projects
 - [fhe.org](https://fhe.org/)
 - [zama](https://www.zama.ai/)
 - [Ris0](https://www.risczero.com/)
-## Applications
 ## Implementation
 ### FHE
 - [fully-homomorphic-encryption](https://github.com/google/fully-homomorphic-encryption)
