@@ -7,7 +7,10 @@
   -  [Use cases](#Use-cases)
   -  [Applications](#Applications)
 ## Mathmatical introduction
-- [] TODO
+- [A FULLY HOMOMORPHIC ENCRYPTION SCHEME](https://crypto.stanford.edu/craig/craig-thesis.pdf)
+- [Fully Homomorphic Encryption over the Integers](https://eprint.iacr.org/2009/616)
+- [(Leveled) Fully Homomorphic Encryption without Bootstrapping](https://dl.acm.org/doi/abs/10.1145/2633600)
+- [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://eprint.iacr.org/2016/421)
 ## Use cases
 - [] TODO
 ## Projects
