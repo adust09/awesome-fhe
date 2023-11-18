@@ -10,3 +10,10 @@
 ## Courses
 ## Use cases
 ## Applications
+## Implementation
+### zkFHE
+- [zk-fhe](https://github.com/enricobottazzi/zk-fhe)
+- [zkFHE](https://github.com/emilianobonassi/zkFHE)
+- [circomlib-fhe](https://github.com/zkFHE/circomlib-fhe)
+### BFV
+- [bfv-py](https://github.com/yuriko627/bfv-py)
